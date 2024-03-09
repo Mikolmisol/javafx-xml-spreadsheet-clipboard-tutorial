@@ -1,5 +1,3 @@
-package samuel.pavlus.statisticium.datasets;
-
 import javafx.scene.input.Clipboard;
 import javafx.scene.input.DataFormat;
 
